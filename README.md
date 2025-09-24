@@ -9,10 +9,10 @@ It demonstrates the basic concepts of how a blockchain works, including:
 - **Chain Validation**: Each block is linked to the previous one through a cryptographic hash, ensuring data integrity.
 
 ## Features
-✅ Create wallets and sign transactions  
-✅ Add transactions to new blocks  
-✅ Link blocks together to form a chain  
-✅ Validate the blockchain to detect tampering
+Create wallets and sign transactions 
+Add transactions to new blocks  
+Link blocks together to form a chain  
+Validate the blockchain to detect tampering
 
 ## How to Build
 In the root of the project:
